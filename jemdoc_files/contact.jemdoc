@@ -1,13 +1,6 @@
 # jemdoc: menu{MENU}{contact.html}
-= jemdoc -- contact details
+= Contact Us
 
-== Development
-jemdoc is developed by [http://stanford.edu/~jacobm/ Jacob Mattingley].
-Please [jacobm@stanford.edu contact Jacob] with any bug reports and
-comments.
-If reporting a bug, please run the command +jemdoc -\-version+ and include the
-result in your email.
+Please feel free to contact the Faculty directly with inquiries regarding specific research matters. 
+With generic questions or comments please reach out to [molybog@hawaii.edu molybog@hawaii.edu]
 
-There are two levels of support:
-- Basic jemdoc, which I will attempt to support well, and
-- LaTeX equations in jemdoc, which I may attempt to support.

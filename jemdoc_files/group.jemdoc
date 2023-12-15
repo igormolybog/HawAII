@@ -1,41 +1,49 @@
 # jemdoc: menu{MENU}{group.html}
-= Group
-This page contains all photos of our group.
-
-~~~
-{}{img_left}{images/groups/group_all.png}{}{100%}{}{}
-~~~
 
 
-== Members
+[https://www2.hawaii.edu/~kyungim/ Kyungim Baek]
+[https://www2.hawaii.edu/~sstill/ Susanne Still]
+[https://www2.hawaii.edu/~binsted/ Kim Binsted]
+Martha Crosby
+[https://ee.hawaii.edu/faculty/profile?usr=19 Anthony Kuh]
+[https://ee.hawaii.edu/faculty/profile?usr=63 Prasad Santhanam]
+[https://ee.hawaii.edu/faculty/profile?usr=89 June Zhang]
+[https://ee.hawaii.edu/faculty/profile?usr=17 Anders Host-Madsen]
+
+
+= Faculty
 {{
 <div id="member-container">
     <div id="member">
         <img src="images/profile.png">
         <p>
-            <b>Lorem Ipsum</b></br>
-            PI, EE
+            <b><a href="https://peterjsadowski.github.io/" target=&ldquo;blank&rdquo;>Peter Sadowski</a></b></br>
+            Center Director, Assoc Prof ICS </br>
+            AI & ML 4 physics, astronomy, weather, and climate
         </p>
     </div>
     <div id="member">
         <img src="images/groups/people/p1.png">
         <p>
-            <b>Quisque Velit Odio</b></br>
-            Assistant Prof, Statistic
+            <b><a href="https://igormolybog.github.io/" target=&ldquo;blank&rdquo;>Igor Molybog</a></b></br>
+            Center Assistant, Asst Prof ECE </br>
+            LLM; AI 4 science, transportation and finance
         </p>
     </div>
     <div id="member">
         <img src="images/groups/people/p2.png">
         <p>
-            <b>Sollicitudin Quis</b></br>
-            Assistant Prof, CS
+            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=63" target=&ldquo;blank&rdquo;>Prasad Santhanam</a></b></br>
+            Assoc Prof ECE </br>
+
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p3.png">
+        <img src="images/groups/people/p3.png">  
         <p>
-            <b>Dictum Vitae</b></br>
-            PhD Student, EE
+            <b><a href="https://peterwashington.github.io/" target=&ldquo;blank&rdquo;>Peter Washington</a></b></br>
+            Asst Prof ICS </br>
+
         </p>
     </div>
     <div id="member">
@@ -132,6 +140,11 @@ This page contains all photos of our group.
 </div>
 }}
 
+
+= Researchers
+
+[https://datascience.hawaii.edu/profile/alice-koniges/ Alice Koniges]
+[https://www.higp.hawaii.edu/index.php/people/frances-zhu/ Frances Zhu]
 
 
 == Group Outings
