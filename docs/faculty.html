@@ -8,7 +8,7 @@
 <link rel="icon" href="./images/icon.png">
 <link rel="stylesheet" href="main.css" type="text/css" />
 <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
-<!--- <title>MathJax Example</title> --->
+<!--- <title></title> --->
 <title>Hawaii Artificial Intelligence Initiative</title>
 <!-- MathJax -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
@@ -50,13 +50,13 @@ MathJax.Hub.Config({
 <div class="menu-item"><a href="projects.html">Projects</a></div>
 <div class="menu-item"><a href="projects.html">Courses</a></div>
 <div class="menu-category">People</div>
-<div class="menu-item"><a href="group.html">Faculty</a></div>
-<div class="menu-item"><a href="group.html">Students</a></div>
+<div class="menu-item"><a href="group.html" class="current">Faculty</a></div>
+<div class="menu-item"><a href="group.html" class="current">Students</a></div>
 <div class="menu-category">My Templates</div>
 <div class="menu-item"><a href="profile.html">Profile&nbsp;Page</a></div>
 <div class="menu-item"><a href="post1.html">Blog&nbsp;Post&nbsp;Page</a></div>
 <div class="menu-item"><a href="projects.html">Project&nbsp;Page</a></div>
-<div class="menu-item"><a href="group.html">Group&nbsp;Page</a></div>
+<div class="menu-item"><a href="group.html" class="current">Group&nbsp;Page</a></div>
 <div class="menu-category">Jemdoc</div>
 <div class="menu-item"><a href="download.html">download</a></div>
 <div class="menu-item"><a href="revision.html">version/bug&nbsp;info</a></div>
@@ -76,7 +76,7 @@ MathJax.Hub.Config({
 <div class="menu-item"><a href="latex.html">latex&nbsp;equations</a></div>
 <div class="menu-item"><a href="tables.html">tables</a></div>
 <div class="menu-category">Additional Features</div>
-<div class="menu-item"><a href="mathjax.html" class="current">MathJax</a></div>
+<div class="menu-item"><a href="mathjax.html">MathJax</a></div>
 <div class="menu-item"><a href="underscore.html">Underscore</a></div>
 <div class="menu-item"><a href="link.html">Link</a></div>
 <div class="menu-item"><a href="http://www.google.com" target="blank">Open&nbsp;in&nbsp;New&nbsp;Tab</a></div>
@@ -84,55 +84,138 @@ MathJax.Hub.Config({
 </div> <!-- <div id="layout-menu-container"> -->
 <div id="layout-content-container">
 <div id="layout-content">
-<div id="toptitle">
-<h1>MathJax Example</h1>
-<div id="subtitle">
-In this modified version of <tt>jemdoc</tt>, a LaTeX equation block can be typed in as</div>
-</div>
-<p style="text-align:center">
-\[
-\nabla \cdot \mathbf{D} = \rho_f\\
-\nabla \cdot \mathbf{B} = 0,\\
-\nabla \times \mathbf{E} = -\frac{\partial\mathbf{B}}{\partial t}\\
-\nabla \times \mathbf{H} = \mathbf{J}_f - \frac{\partial\mathbf{D}}{\partial t}.
-\]
-</p><p>
-You can also align equations using LaTeX's <tt>aligned</tt> block:</p>
-<p style="text-align:center">
-\[
-\begin{aligned}
-\nabla \cdot \mathbf{D} &amp;= \rho_f\\
-\nabla \cdot \mathbf{B} &amp;= 0\\
-\nabla \times \mathbf{E} &amp;= -\frac{\partial\mathbf{B}}{\partial t}\\
-\nabla \times \mathbf{H} &amp;= \mathbf{J}_f - \frac{\partial\mathbf{D}}{\partial t}.
-\end{aligned}
-\]
-</p><p>
-To number the equation block, wrap the equations with LaTeX's <tt>equation</tt> block:</p>
-<p style="text-align:center">
-\[
-\begin{equation}
-\begin{aligned}
-\nabla \cdot \mathbf{D} &amp;= \rho_f\\
-\nabla \cdot \mathbf{B} &amp;= 0\\
-\nabla \times \mathbf{E} &amp;= -\frac{\partial\mathbf{B}}{\partial t}\\
-\nabla \times \mathbf{H} &amp;= \mathbf{J}_f - \frac{\partial\mathbf{D}}{\partial t}.
-\end{aligned}
-\end{equation}
-\]
-</p><p>
-Instead, you can use LaTeX's <tt>align</tt> (not <tt>aligned</tt>) block to number the individual equations:</p>
-<p style="text-align:center">
-\[
-\begin{align}
-\nabla \cdot \mathbf{D} &amp;= \rho_f\label{eq:D}\\
-\nabla \cdot \mathbf{B} &amp;= 0\label{eq:B}\\
-\nabla \times \mathbf{E} &amp;= -\frac{\partial\mathbf{B}}{\partial t}\label{eq:E}\\
-\nabla \times \mathbf{H} &amp;= \mathbf{J}_f - \frac{\partial\mathbf{D}}{\partial t}\label{eq:H}
-\end{align}
-\]
-</p><p>
-You can also type inline equations as \(A x = b\).  Referencing equations is done as Eqs.&nbsp;\(\eqref{eq:E}\) and \(\eqref{eq:H}\).</p>
+<p>
+
+<a href="https://www2.hawaii.edu/~kyungim/" target=&ldquo;blank&rdquo;>Kyungim Baek</a>
+<a href="https://www2.hawaii.edu/~sstill/" target=&ldquo;blank&rdquo;>Susanne Still</a>
+<a href="https://www2.hawaii.edu/~binsted/" target=&ldquo;blank&rdquo;>Kim Binsted</a>
+Martha Crosby
+<a href="https://ee.hawaii.edu/faculty/profile?usr=19" target=&ldquo;blank&rdquo;>Anthony Kuh</a>
+<a href="https://ee.hawaii.edu/faculty/profile?usr=63" target=&ldquo;blank&rdquo;>Prasad Santhanam</a>
+<a href="https://ee.hawaii.edu/faculty/profile?usr=89" target=&ldquo;blank&rdquo;>June Zhang</a>
+<a href="https://ee.hawaii.edu/faculty/profile?usr=17" target=&ldquo;blank&rdquo;>Anders Host-Madsen</a>
+
+</p>
+<h1>Faculty</h1>
+<p>
+<div id="member-container">
+<div id="member">
+<img src="images/profile.png">
+<p>
+<b><a href="https://peterjsadowski.github.io/" target=&ldquo;blank&rdquo;>Peter Sadowski</a></b></br>
+Center Director, Assoc Prof ICS </br>
+AI & ML 4 physics, astronomy, weather, and climate
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p1.png">
+<p>
+<b><a href="https://igormolybog.github.io/" target=&ldquo;blank&rdquo;>Igor Molybog</a></b></br>
+Center Assistant, Asst Prof ECE </br>
+LLM; AI 4 science, transportation and finance
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p2.png">
+<p>
+<b><a href="https://ee.hawaii.edu/faculty/profile?usr=63" target=&ldquo;blank&rdquo;>Prasad Santhanam</a></b></br>
+Assoc Prof ECE </br>
+
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p3.png">  
+<p>
+<b><a href="https://peterwashington.github.io/" target=&ldquo;blank&rdquo;>Peter Washington</a></b></br>
+Asst Prof ICS </br>
+
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p3.png">  
+<p>
+<b><a href="https://www2.hawaii.edu/~kyungim/" target="<u>blank">Kyungim Baek</a></b><br>
+Asst Prof ICS </br>
+
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p3.png">  
+<p>
+<b><a href="https://www2.hawaii.edu/~sstill/" target="</u>blank">Susanne Still</a></b><br>
+Asst Prof ICS </br>
+
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p3.png">  
+<p>
+<b><a href="https://www2.hawaii.edu/~binsted/" target="<u>blank">Kim Binsted</a></b><br>
+Asst Prof ICS </br>
+
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p3.png">  
+<p>
+<b><a href="https://ee.hawaii.edu/faculty/profile?usr=19" target="</u>blank">Anthony Kuh</a></b><br>
+Asst Prof ECE </br>
+
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p3.png">  
+<p>
+<b><a href="https://ee.hawaii.edu/faculty/profile?usr=89" target="<u>blank">June Zhang</a></b><br>
+Asst Prof ECE </br>
+
+</p>
+</div>
+<div id="member">
+<img src="images/groups/people/p3.png">  
+<p>
+<b><a href="https://ee.hawaii.edu/faculty/profile?usr=17" target="</u>blank">Anders Host-Madsen</a></b><br>
+Asst Prof ECE </br>
+
+</p>
+</div>
+</div>
+
+
+</p>
+<h1>Researchers</h1>
+<p>
+<a href="https://datascience.hawaii.edu/profile/alice-koniges/" target=&ldquo;blank&rdquo;>Alice Koniges</a>
+<a href="https://www.higp.hawaii.edu/index.php/people/frances-zhu/" target=&ldquo;blank&rdquo;>Frances Zhu</a>
+
+</p>
+<h2>Group Outings</h2>
+<p>
+<div class="row">
+<div class="column">
+<img src="images/groups/outing/wedding.png" style="width:100%">
+<img src="images/groups/outing/rocks.png" style="width:100%">
+<img src="images/groups/outing/falls2.png" style="width:100%">
+</div>
+<div class="column">
+<img src="images/groups/outing/underwater.png" style="width:100%">
+<img src="images/groups/outing/ocean.png" style="width:100%">
+<img src="images/groups/outing/wedding.png" style="width:100%">
+<img src="images/groups/outing/mountainskies.png" style="width:100%">
+</div>
+<div class="column">
+<img src="images/groups/outing/paris.png" style="width:100%">
+<img src="images/groups/outing/nature.png" style="width:100%">
+<img src="images/groups/outing/mist.png" style="width:100%">
+<img src="images/groups/outing/paris.png" style="width:100%">
+</div>
+<div class="column">
+<img src="images/groups/outing/rocks.png" style="width:100%">
+<img src="images/groups/outing/underwater.png" style="width:100%">
+<img src="images/groups/outing/ocean.png" style="width:100%">
+</div>
+</div>
+</p>
 </div> <!-- <div id="layout-content"> -->
 <div id="footer-container">
 <div id="footer">

@@ -47,94 +47,51 @@ Martha Crosby
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p4.png">
+        <img src="images/groups/people/p3.png">  
         <p>
-            <b>Condimentum Non</b></br>
-            PhD Student, EE
+            <b><a href="https://www2.hawaii.edu/~kyungim/" target="_blank">Kyungim Baek</a></b><br>
+            Asst Prof ICS </br>
+
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p5.png">
+        <img src="images/groups/people/p3.png">  
         <p>
-            <b>Nibh Morbi</b></br>
-            Student, EE
+            <b><a href="https://www2.hawaii.edu/~sstill/" target="_blank">Susanne Still</a></b><br>
+            Asst Prof ICS </br>
+
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p6.png">
+        <img src="images/groups/people/p3.png">  
         <p>
-            <b>Convallis Volutpat</b></br>
-            PhD Student, EE
+            <b><a href="https://www2.hawaii.edu/~binsted/" target="_blank">Kim Binsted</a></b><br>
+            Asst Prof ICS </br>
+
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p7.png">
+        <img src="images/groups/people/p3.png">  
         <p>
-            <b>Feugiat Donec</b></br>
-            PhD Student, EE
+            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=19" target="_blank">Anthony Kuh</a></b><br>
+            Asst Prof ECE </br>
+
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p8.png">
+        <img src="images/groups/people/p3.png">  
         <p>
-            <b>Nec Purus</b></br>
-            PhD Student, Statistic
+            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=89" target="_blank">June Zhang</a></b><br>
+            Asst Prof ECE </br>
+
         </p>
     </div>
     <div id="member">
-        <img src="images/groups/people/p9.png">
+        <img src="images/groups/people/p3.png">  
         <p>
-            <b>Gravida Lacinia</b></br>
-            PhD Student, Statistic
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p10.png">
-        <p>
-            <b>Proin Consectetur</b></br>
-            PhD Student, CS
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p11.png">
-        <p>
-            <b>Sapien Sit</b></br>
-            PhD Student, CS
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p12.png">
-        <p>
-            <b>Amet Sagittis</b></br>
-            MS Student, EE
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p13.png">
-        <p>
-            <b>Pharetra Volutpat</b></br>
-            MS Student, EE
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p14.png">
-        <p>
-            <b>Pellentesque ibh</b></br>
-            MS Student, Statistic
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p15.png">
-        <p>
-            <b>Vel Futrum</b></br>
-            MS Student, CS
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p16.png">
-        <p>
-            <b>Ut Vitae</b></br>
-            MS Student, CS
+            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=17" target="_blank">Anders Host-Madsen</a></b><br>
+            Asst Prof ECE </br>
+
         </p>
     </div>
 </div>
