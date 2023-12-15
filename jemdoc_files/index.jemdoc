@@ -1,9 +1,16 @@
 # jemdoc: menu{MENU}{index.html}
 
 ~~~
-{}{img_left}{./images/banner.png}{profile pic}{100%}{}{https://github.com/szl2/jemdoc-new-design}
+{}{img_left}{./images/banner.png}{profile pic}{50%}{}{https://igormolybog.github.io/hawaii/}
 ~~~
 
-~~~
-{}{img_left}{./images/info.png}{info pic}{100%}{}{}
-~~~
+= About HawAII
+
+Hawaii AI Initiative (HawAII) is a Research Center at the University of Hawaii that stands as a pioneering hub for cutting-edge advancements in machine learning and artificial intelligence. Committed to the exploration and innovation of AI technologies, this center brings together a collaborative community of researchers, scholars, and students dedicated to pushing the boundaries of AI.
+
+\n
+\n
+
+Focusing on interdisciplinary research, this center seeks to develop, study, deploy and leverage the latest advancements in ganerative AI while driving practical applications in healthcare, astronomy, chemisty, economics, biology and various engineering subfields that address real-world challenges.
+With a strong emphasis on ethical AI development and its societal implications, the center fosters an environment that encourages critical inquiry and responsible innovation. 
+
