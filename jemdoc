@@ -377,7 +377,11 @@ def out(f, s):
   if sys.version_info[0] == 2 and type(s) is StringType:
     f.write(s.decode('utf-8'))
   else:
-    f.write(s)
+    try:
+      f.write(s)
+    except Exception as e:
+      print(s)
+      raise e
 
 def mathjaxussub(link):
   link = link.replace('_', 'UNDERSCORE65358')
