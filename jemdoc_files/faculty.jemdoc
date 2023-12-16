@@ -1,114 +1,86 @@
-# jemdoc: menu{MENU}{group.html}
-
-
-[https://www2.hawaii.edu/~kyungim/ Kyungim Baek]
-[https://www2.hawaii.edu/~sstill/ Susanne Still]
-[https://www2.hawaii.edu/~binsted/ Kim Binsted]
-Martha Crosby
-[https://ee.hawaii.edu/faculty/profile?usr=19 Anthony Kuh]
-[https://ee.hawaii.edu/faculty/profile?usr=63 Prasad Santhanam]
-[https://ee.hawaii.edu/faculty/profile?usr=89 June Zhang]
-[https://ee.hawaii.edu/faculty/profile?usr=17 Anders Host-Madsen]
+# jemdoc: menu{MENU}{faculty.html}
 
 
 = Faculty
-{{
-<div id="member-container">
-    <div id="member">
-        <img src="images/profile.png">
-        <p>
-            <b><a href="https://peterjsadowski.github.io/" target=&ldquo;blank&rdquo;>Peter Sadowski</a></b></br>
-            Center Director, Assoc Prof ICS </br>
-            AI & ML 4 physics, astronomy, weather, and climate
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p1.png">
-        <p>
-            <b><a href="https://igormolybog.github.io/" target=&ldquo;blank&rdquo;>Igor Molybog</a></b></br>
-            Asst Prof ECE </br>
-            NLP & LLM 4 engineering and finance
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p2.png">
-        <p>
-            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=63" target=&ldquo;blank&rdquo;>Prasad Santhanam</a></b></br>
-            Prof ECE </br>
-            Statistical learning
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p3.png">  
-        <p>
-            <b><a href="https://peterwashington.github.io/" target=&ldquo;blank&rdquo;>Peter Washington</a></b></br>
-            Asst Prof ICS </br>
-            ML & AI 4 healthcare
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p3.png">  
-        <p>
-            <b><a href="https://www2.hawaii.edu/~kyungim/" target="_blank">Kyungim Baek</a></b><br>
-            Assoc Prof ICS </br>
-            CV; ML 4 bioinformatics
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p3.png">  
-        <p>
-            <b><a href="https://www2.hawaii.edu/~sstill/" target="_blank">Susanne Still</a></b><br>
-            Prof Physics and Astronomy </br>
-            Physics 4 ML
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p3.png">  
-        <p>
-            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=19" target="_blank">Anthony Kuh</a></b><br>
-            Prof ECE </br>
-            Federated learning
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p3.png">  
-        <p>
-            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=89" target="_blank">June Zhang</a></b><br>
-            Asst Prof ECE </br>
-            Knowledge graphs
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p3.png">  
-        <p>
-            <b><a href="https://ee.hawaii.edu/faculty/profile?usr=17" target="_blank">Anders Host-Madsen</a></b><br>
-            Asst Prof ECE </br>
-            Statistical learning
-        </p>
-    </div>
-</div>
-}}
+
+
+
+~~~
+{}{img_left}{./images/peter_sadowski.jpg}{}{180px}{}{https://peterjsadowski.github.io/}
+== [https://peterjsadowski.github.io/ Peter Sadowski]
+=== Center Director, Assoc Prof ICS
+AI & ML 4 physics, astronomy, weather, and climate
+~~~
+
+~~~
+{}{img_left}{images/igor_molybog.jpg}{}{180px}{}{https://igormolybog.github.io/}
+== [https://igormolybog.github.io/ Igor Molybog]
+=== Asst Prof ECE
+NLP & LLM 4 engineering and finance
+~~~
+
+~~~
+{}{img_left}{images/peter_washington.jpg}{}{180px}{}{https://peterwashington.github.io/}
+== [https://peterwashington.github.io/ Peter Washington]
+=== Asst Prof ICS
+ML & AI 4 healthcare
+~~~
+
+~~~
+{}{img_left}{images/prasad_santhanam.jpg}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=63}
+== [https://ee.hawaii.edu/faculty/profile?usr=63 Prasad Santhanam]
+=== Prof ECE
+Statistical learning
+~~~
+
+~~~
+{}{img_left}{images/kyungim_baek.jpg}{}{180px}{}{https://www2.hawaii.edu/~kyungim/}
+== [https://www2.hawaii.edu/~kyungim/ Kyungim Baek]
+=== Assoc Prof ICS
+CV; ML 4 bioinformatics
+~~~
+
+~~~
+{}{img_left}{images/susanne_still.jpg}{}{180px}{}{https://www2.hawaii.edu/~sstill/}
+== [https://www2.hawaii.edu/~sstill/ Susanne Still]
+=== Prof Physics and Astronomy
+Physics 4 ML
+~~~
+
+~~~
+{}{img_left}{images/anthony_kuh.png}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=19}
+== [https://ee.hawaii.edu/faculty/profile?usr=19 Anthony Kuh]
+=== Prof ECE
+Federated learning
+~~~
+
+~~~
+{}{img_left}{images/june_zhang.jpg}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=89}
+== [https://ee.hawaii.edu/faculty/profile?usr=89 June Zhang]
+=== Asst Prof ECE
+Knowledge graphs
+~~~
+
+~~~
+{}{img_left}{images/andres_host-madsen.jpg}{}{180px}{}{https://ee.hawaii.edu/faculty/profile?usr=17}
+== [https://ee.hawaii.edu/faculty/profile?usr=17 Anders Host-Madsen]
+=== Asst Prof ECE
+Statistical learning
+~~~
+
 
 
 = Researchers
+~~~
+{}{img_left}{images/alice_koniges.jpg}{}{180px}{}{https://datascience.hawaii.edu/profile/alice-koniges/}
+== [https://datascience.hawaii.edu/profile/alice-koniges/ Alice Koniges]
+=== Comp Scientist UHM HPC
+HPC 4 ML
+~~~
 
-{{
-<div id="member-container">
-    <div id="member">
-        <img src="images/profile.png">
-        <p>
-            <b><a href="https://datascience.hawaii.edu/profile/alice-koniges/" target="_blank">Alice Koniges</a></b><br>
-            Comp Scientist UHM HPC </br>
-            HPC 4 ML
-        </p>
-    </div>
-    <div id="member">
-        <img src="images/groups/people/p1.png">
-        <p>
-            <b><a href="https://www.higp.hawaii.edu/index.php/people/frances-zhu/" target="_blank">Frances Zhu</a></b><br>
-            Asst Researcher HSGC </br>
-            ML 4 Planetology
-        </p>
-    </div>
-</div>
-}}
+~~~
+{}{img_left}{images/frances_zhu.jpg}{}{180px}{}{https://www.higp.hawaii.edu/index.php/people/frances-zhu/}
+== [https://www.higp.hawaii.edu/index.php/people/frances-zhu/ Frances Zhu]
+=== Asst Researcher HSGC
+ML 4 Planetology
+~~~
