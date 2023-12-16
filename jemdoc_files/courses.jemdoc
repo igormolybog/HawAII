@@ -2,51 +2,33 @@
 = Projects
 This page contains all my projects.
 
-== 2020
-~~~
-{}{img_left}{./images/pic01.png}{}{280px}{}{}
-== Possibly broke spacetime
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
-~~~
+= 2024
+
+== [https://igormolybog.github.io/ee417-617_spring2024.html ECE417/617 Introduction to Optimization]
+
+The course will discuss Optimization Models in various applications, their Properties, and the Numerical Algorithms for their solution. A special emphasis is put on the interconnections of Optimization with Machine Learning, Finance, as well as Industrial Engineering, and Computer Science.
+
+= 2023
+
+== [https://peterwashington.github.io/teaching/2023-spring-ICS435 ICS 435/635: Machine Learning]
+
+This is a mathematics and programming-heavy introduction to machine learning. Topics include machine learning programming in Python, classical machine learning methods, and an introduction to deep learning.
 
 
-== 2019
-~~~
-{}{img_left}{./images/pic02.png}{}{280px}{}{}
-== Terraformed a small moon
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
-~~~
+== [https://peterwashington.github.io/teaching/2023-fall-ICS491 ICS 491: Human-Centered Data Science]
 
-~~~
-{}{img_left}{./images/pic03.png}{}{280px}{}{}
-== Snapped dark matter in the wild
-=== Lorem ipsum dolor sit amet nullam id egestas urna aliquam
-Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.
-~~~
+The course navigates the complexities of working with diverse human data, addressing ethical, privacy, and analysis challenges across various fields without requiring prior data science knowledge.
 
+== [https://uhm-descartes.github.io/ee342/index.html Probability and statistics]
 
+The course covers the fundamentals of formal probability theory such as types of random variables and conditional expectation
 
-~~~
-{}{img_left}{./images/pic04.png}{}{280px}{}{}
-== Sed eu mauris sed dolor commodo efficitur eget at augue
-=== Proin consectetur sapien sit amet sagittis pharetra
-Mauris ut massa placerat, pellentesque nibh sit amet, sodales diam. Mauris leo odio, rhoncus et consectetur ut, suscipit et elit. Praesent non mollis nibh, at rhoncus est.
-~~~
+== [https://uhm-descartes.github.io/ee345/index.html Linear Algebra]
 
-== 2018
+The course covers the fundamentals of linear algebra such as linear spaces, operators and their spectral properties
 
-~~~
-{}{img_left}{./images/pic05.png}{}{280px}{}{}
-== Donec gravida rutrum libero
-=== Curabitur mollis elementum mauris in volutpat
-Aenean posuere erat vel rutrum mollis. Aliquam mattis augue erat. Sed tellus turpis, laoreet id turpis vel, fringilla pulvinar nisi. Ut vitae euismod diam, et luctus tellus.
-~~~
+= 2022
 
-~~~
-{}{img_left}{./images/pic06.png}{}{280px}{}{}
-== Aliquet scelerisque risus tincidunt a
-=== Pellentesque dapibus, odio quis varius consequat
-Nunc eget ex et odio tempus convallis sed in eros. Aliquam laoreet bibendum erat, vitae accumsan tellus.
-~~~
+== [https://peterwashington.github.io/teaching/2022-fall-ICS691D ICS 691D: Human-Centered Artificial Intelligence]
+
+This is a discussion-based course covering the latest research in human-centered artificial intelligence (HAI). Topics covered include interactive ML systems, explainable & interpretable ML, AI for healthcare, fairness & bias, privacy, crowdsourcing, HCI evaluations of AI-powered systems, and ethical frameworks applied to AI.
