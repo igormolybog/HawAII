@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{faculty.html}
+# jemdoc: menu{MENU}{members.html}
 
 
 = Faculty
@@ -8,7 +8,7 @@
 ~~~
 {}{img_left}{./images/peter_sadowski.jpg}{}{180px}{}{https://peterjsadowski.github.io/}
 == [https://peterjsadowski.github.io/ Peter Sadowski]
-=== Center Director, Assoc Prof ICS
+=== Assoc Prof ICS
 AI & ML 4 physics, astronomy, weather, and climate
 ~~~
 
@@ -32,6 +32,29 @@ ML & AI 4 healthcare
 === Prof ECE
 Statistical learning
 ~~~
+
+~~~
+{}{img_left}{images/jason_leigh.jpg}{}{180px}{}{https://datascience.hawaii.edu/profile/jason-leigh/}
+== [https://datascience.hawaii.edu/profile/jason-leigh/ Jason Leigh]
+=== Prof ICS
+CV 4 VR, data visualisation
+~~~
+
+~~~
+{}{img_left}{images/anthony_peruma.jpg}{}{180px}{}{https://www.peruma.me/}
+== [https://www.peruma.me/ Anthony Peruma]
+=== Asst Prof ICS
+AI 4 code generation
+~~~
+
+
+~~~
+{}{img_left}{images/nodari_sitchinava.jpg}{}{180px}{}{https://www2.hawaii.edu/~nodari/}
+== [https://www2.hawaii.edu/~nodari/ Nodari Sitchinava]
+=== Assoc Prof ICS
+GPU accelerated computing
+~~~
+
 
 ~~~
 {}{img_left}{images/kyungim_baek.jpg}{}{180px}{}{https://www2.hawaii.edu/~kyungim/}
@@ -71,6 +94,13 @@ Statistical learning
 
 
 = Researchers
+~~~
+{}{img_left}{images/mahdi_belcaid.jpg}{}{180px}{}{https://datascience.hawaii.edu/profile/mahdi-belcaid-2/}
+== [https://datascience.hawaii.edu/profile/mahdi-belcaid-2/ Mahdi Belcaid]
+=== Asst Researcher, Institute of Marine Biology
+ML 4 genetics
+~~~
+
 ~~~
 {}{img_left}{images/alice_koniges.jpg}{}{180px}{}{https://datascience.hawaii.edu/profile/alice-koniges/}
 == [https://datascience.hawaii.edu/profile/alice-koniges/ Alice Koniges]
